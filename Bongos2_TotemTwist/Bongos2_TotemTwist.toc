@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: Bongos2 TotemTwist
+## Notes: Displays a fake Windfury Totem cooldown on Bongos2 ActionBars for totem twisting. Authored by Siarkowy
+## Author: Siarkowy
+## Version: 1.0
+## RequiredDeps: Bongos2_ActionBar
+## X-Category: Action Bars
+## X-License: BSD 2.0
+
+core.lua
