@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: Bartender4 [|cffeda55fTotemTwist|r]
+## Notes: Displays a fake Windfury Totem cooldown on Bartender4 ActionBar for totem twisting. Authored by Siarkowy
+## Author: Siarkowy
+## Version: 1.1
+## RequiredDeps: Bartender4
+## X-Category: Action Bars
+## X-License: BSD 2.0
+
+core.lua
