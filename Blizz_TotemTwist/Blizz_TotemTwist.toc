@@ -3,6 +3,7 @@
 ## Notes: Displays a fake Windfury Totem cooldown on Blizzard ActionBars for totem twisting. Authored by Siarkowy
 ## Author: Siarkowy
 ## Version: 1.0
+## X-Website: https://github.com/SiarkowyMods/TotemTwist
 ## X-Category: Action Bars
 ## X-License: BSD 2.0
 

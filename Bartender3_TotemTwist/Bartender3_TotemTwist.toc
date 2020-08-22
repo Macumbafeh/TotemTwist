@@ -4,6 +4,7 @@
 ## Author: Siarkowy
 ## Version: 1.0
 ## RequiredDeps: Bartender3
+## X-Website: https://github.com/SiarkowyMods/TotemTwist
 ## X-Category: Action Bars
 ## X-License: BSD 2.0
 
